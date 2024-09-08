@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/neural-network.avif"></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQF0Bca5ba1PsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720567482617?e=1731542400&v=beta&t=D5ZDRc3qfVZ7I7EkRNPxq8nrja-iDELGoLFAdoiOhSQ"></p>
 
 <!-- <a href="#"><img width="100%" height="auto" src="./assets/gif/standard.gif" height="175px"/></a> -->
 
